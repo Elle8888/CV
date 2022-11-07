@@ -54,11 +54,11 @@ Consider skills relevent to software development. Then consider your best skills
 --->
 #### Problem-solving
 
-Legal work requires the ability to indentify and process key information and utilize these to come up with the best solution under the circumstances for the client or the organization. I was often tasked to handle legal related operational queries to give advice on the optimal tax strategy for complex commercial transactions.
+Legal work requires the ability to identify and process key information and utilize these to come up with the best solution under the circumstances for the client or the organization. I was often tasked to handle legal related operational queries to give advice on the optimal tax strategy for complex commercial transactions.
 
 #### Ability to work under pressure
 
-Tight deadlines and pressure from stakeholders are inevitable working as a lawyer. In my previous jobs, missing deadlines can cost the organisation its resources so I had to manage multiple fillings of tax protest and tax returns on top of my day-to-day duties.
+Tight deadlines and pressure from stakeholders are inevitable working as a lawyer. In my previous jobs, missing deadlines can cost the organization its resources so I had to manage multiple fillings of tax protest and tax returns on top of my day-to-day duties.
 
 #### Team work
 
