@@ -77,14 +77,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (October 2022 to present)
 <!--->
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
+<!---Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)--->
+- Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- OOP, TDD, MVC
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
---->
+- Ruby, JavaScript
+- MERN, PERN
+- Jest, Rspec, Cypress
+
 
 #### Queen Mary University of London (2019 to 2020)
 
