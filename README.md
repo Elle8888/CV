@@ -110,3 +110,5 @@ I also happen to be a Philippine qualified lawyer and Certified Public Accountan
 - Indoor Climbing
 - Karaoke
 - Cooking
+
+<a href="https://github.com/Elle8888/CV/raw/master/LRigodonCV.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
