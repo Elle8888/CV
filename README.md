@@ -111,4 +111,4 @@ I also happen to be a Philippine qualified lawyer and Certified Public Accountan
 - Karaoke
 - Cooking
 
-<img width="28" src="https://github.com/Elle8888/CV/raw/master/LRigodonCV.pdf"/>
+<img src="https://github.com/Elle8888/CV/raw/master/1.png"/>
