@@ -1,3 +1,6 @@
+<img src="https://github.com/Elle8888/CV/raw/master/1.png"/>
+<img src="https://github.com/Elle8888/CV/raw/master/2.png"/>
+
 ## (Elle) Lou Diane Rigodon
 
 <!---A sentence about who and what you are. Then a sentence about what you've achieved.  And then a sentence about what excites you about tech.--->
@@ -111,4 +114,4 @@ I also happen to be a Philippine qualified lawyer and Certified Public Accountan
 - Karaoke
 - Cooking
 
-<img src="https://github.com/Elle8888/CV/raw/master/1.png"/>
+
