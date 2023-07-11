@@ -1,5 +1,5 @@
-<img src="https://github.com/Elle8888/CV/raw/master/1.png"/>
-<img src="https://github.com/Elle8888/CV/raw/master/2.png"/>
+<!---<img src="https://github.com/Elle8888/CV/raw/master/1.png"/>
+<img src="https://github.com/Elle8888/CV/raw/master/2.png"/>--->
 
 ## (Elle) Lou Diane Rigodon
 
